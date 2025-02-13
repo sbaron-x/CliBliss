@@ -1,2 +1,2 @@
 # CLIBliss
-Enable AI on your command line. Have full controll
+A simple yet powerfull C# framwork to create beautiful UIs for the CLI 
